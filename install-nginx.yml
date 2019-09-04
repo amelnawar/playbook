@@ -1,6 +1,6 @@
 ---
 
-  - name: install nginx 1
+  - name: install nginx 
     hosts: all
     tasks:
       - name : update yum
